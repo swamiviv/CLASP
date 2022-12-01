@@ -1,0 +1,39 @@
+name: generative_uncertainty
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - ca-certificates=2021.10.8
+  - certifi=2021.10.8
+  - libffi=3.3
+  - libgcc-ng=11.2.0
+  - libstdcxx-ng=11.2.0
+  - ncurses=6.2
+  - ninja=1.10.0
+  - openssl=1.1.1
+  - pip=21.0.1
+  - python=3.7.10
+  - python_abi=3.7
+  - readline=8.1
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - tk=8.6.10
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - scipy==1.6.3
+    - matplotlib==3.4.2
+    - numpy==1.20.2
+    - pillow==8.2.0
+    - tensorboard==1.15.0
+    - torch==1.8.1
+    - torchvision==0.9.1
+    - pytorch-ranger==0.1.1
+    - torch-optimizer==0.1.0
+    - torchfile==0.1.0
+    - torchmetrics==0.5.0
+    - tqdm==4.60.0
+    - wandb==0.12.4
+
