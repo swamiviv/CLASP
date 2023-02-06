@@ -17,3 +17,9 @@ Coming soon:
 
 
 This repository contains evaluation code built on top of [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel). Please follow the instructions to install pixel2style2pixel for setting up this repository.
+
+# License
+The project is licensed under MIT License.
+
+# Acknowledgements
+The research for this project was sponsored by the U.S. Air Force Research Laboratory and the U.S. Air Force Artificial Intelligence Accelerator and was accomplished under Cooperative Agreement Number FA8750-19-2- 1000. MIT SuperCloud and the Lincoln Laboratory Supercomputing Center also provided computing resources that contributed to the results reported in this work.
